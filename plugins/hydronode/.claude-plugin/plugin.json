@@ -1,5 +1,6 @@
 {
   "name": "hydronode",
+  "displayName": "HydroNode",
   "version": "0.1.1",
   "description": "HydroNode in Claude: the hosted MCP server (sign in with OAuth, choose projects and rights) plus skills for condensed sensor history, safe writes and the hydronode CLI.",
   "author": {
@@ -18,5 +19,8 @@
     "lorawan"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://hydronode.tech/privacy"
+  "privacyPolicyUrl": "https://hydronode.tech/privacy",
+  "documentationUrl": "https://hydronode.tech/docs/guide/mcp",
+  "supportUrl": "https://github.com/TexhFexLabs/hydronode-skills/issues",
+  "termsOfServiceUrl": "https://hydronode.tech/terms"
 }

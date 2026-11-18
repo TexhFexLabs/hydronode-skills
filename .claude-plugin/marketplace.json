@@ -11,7 +11,7 @@
       "name": "hydronode",
       "source": "./plugins/hydronode",
       "description": "HydroNode MCP server plus skills: ask about sensors, history, anomalies and devices, switch outputs with your consent, script the hydronode CLI.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "keywords": [
         "iot",

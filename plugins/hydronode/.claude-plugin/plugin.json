@@ -1,0 +1,20 @@
+{
+  "name": "hydronode",
+  "version": "0.1.0",
+  "description": "HydroNode in Claude: the hosted MCP server (sign in with OAuth, choose projects and rights) plus skills for condensed sensor history, safe writes and the hydronode CLI.",
+  "author": {
+    "name": "TexhFex Labs"
+  },
+  "homepage": "https://hydronode.tech/docs/guide/mcp",
+  "license": "MIT",
+  "repository": "https://github.com/TexhFexLabs/hydronode-skills",
+  "keywords": [
+    "iot",
+    "sensors",
+    "mcp",
+    "cli",
+    "hydroponics",
+    "esp32",
+    "lorawan"
+  ]
+}

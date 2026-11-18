@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hydronode": {
+      "type": "http",
+      "url": "https://hydronode.tech/mcp"
+    }
+  }
+}

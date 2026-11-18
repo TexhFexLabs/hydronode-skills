@@ -1,0 +1,27 @@
+{
+  "name": "hydronode",
+  "owner": {
+    "name": "TexhFex Labs"
+  },
+  "metadata": {
+    "description": "Skills for working with HydroNode sensors through the hosted MCP server and the hydronode CLI."
+  },
+  "plugins": [
+    {
+      "name": "hydronode",
+      "source": "./plugins/hydronode",
+      "description": "HydroNode MCP server plus skills: ask about sensors, history, anomalies and devices, switch outputs with your consent, script the hydronode CLI.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "iot",
+        "sensors",
+        "mcp",
+        "cli",
+        "hydroponics",
+        "esp32",
+        "lorawan"
+      ]
+    }
+  ]
+}

@@ -50,6 +50,11 @@ and the CLI you installed yourself.
   Connectors). Guide: <https://hydronode.tech/docs/guide/mcp>.
 - **CLI:** install `hydronode` and run `hydronode login`. Guide: <https://hydronode.tech/docs/guide/cli>.
 
+## Releasing
+
+Bump `version` in `plugins/hydronode/.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`, run
+`claude plugin validate .`, push to `main`. Installed copies update with `claude plugin marketplace update hydronode`.
+
 ## License
 
 MIT, see [LICENSE](LICENSE).

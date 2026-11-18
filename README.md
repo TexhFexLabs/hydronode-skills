@@ -48,7 +48,7 @@ and the CLI you installed yourself.
 
 - **MCP only:** add a custom connector with the URL `https://hydronode.tech/mcp` in Claude (Settings ›
   Connectors). Guide: <https://hydronode.tech/docs/guide/mcp>.
-- **CLI:** install `hydronode` and run `hn login`. Guide: <https://hydronode.tech/docs/guide/cli>.
+- **CLI:** install `hydronode` and run `hydronode login`. Guide: <https://hydronode.tech/docs/guide/cli>.
 
 ## License
 

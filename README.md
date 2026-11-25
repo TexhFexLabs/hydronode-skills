@@ -19,6 +19,8 @@
 
 ## Install
 
+**Claude, Claude Desktop, Cowork:** open [HydroNode in the Claude plugin directory](https://claude.ai/customize/plugins/id/45554ad1-f203-4d6e-81dd-a346b5b75805%40anthropic-plugin-directory) and install it.
+
 **Claude Code**
 
 ```bash
@@ -46,7 +48,7 @@ and the CLI you installed yourself.
 
 ## Without the plugin
 
-- **MCP only:** add a custom connector with the URL `https://hydronode.tech/mcp` in Claude (Settings ›
+- **MCP only:** connect [HydroNode in the Claude connector directory](https://claude.ai/directory/hydronode), or add a custom connector with the URL `https://hydronode.tech/mcp` in Claude (Settings ›
   Connectors). Guide: <https://hydronode.tech/docs/guide/mcp>.
 - **CLI:** install `hydronode` and run `hydronode login`. Guide: <https://hydronode.tech/docs/guide/cli>.
 
